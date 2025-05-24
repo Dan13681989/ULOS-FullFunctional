@@ -1,0 +1,24 @@
+# macOS system files
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Build outputs
+build/
+bin/
+obj/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Node modules
+node_modules/
+
+# Coverage reports
+coverage/
+
+# Misc
+*.swp
