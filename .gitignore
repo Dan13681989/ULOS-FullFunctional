@@ -1,15 +1,6 @@
-# IDE/editor settings
 .vscode/
 .idea/
-
-# Node modules
 node_modules/
-
-# Coverage reports
 coverage/
-
-# Swap files
 *.swp
-
-# macOS system files
 .DS_Store
