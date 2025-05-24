@@ -1,9 +1,23 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
 # ULOS-FullFunctional
 
-ULOS is a modular operating system designed for seamless integration with brain-computer interfaces (BCI), advanced AZR scheduling, and quantum computing readiness.
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
-Maintained by **AzrArchitect**, a privacy-conscious developer pushing OS innovation forward anonymously.
+An open, modular OS with integrated BCI, AZR scheduling, quantum-ready modules, and full-spectrum I/O support.
 
-> **We make the future — together, today.**
+---
+
+### Motto  
+**We make future; Together, Today!**
+
+---
+
+## About
+
+ULOS (Universal Layered Operating System) aims to pioneer the next-gen OS architecture with flexible modularity, brain-computer interface integration, and advanced scheduling algorithms for quantum readiness.
+
+---
+
+## License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+
